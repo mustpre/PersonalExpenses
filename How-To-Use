@@ -1,4 +1,4 @@
-##If you want to run the code, you can do that as well though. Follow these steps:
+## If you want to run the code, you can do that as well though. Follow these steps:
 1) Create a new Flutter project via flutter create some_project
 2) Replace the lib/ folder and the pubspec.yaml file with the attached files
 3) Possibly add assets like images or fonts or adjust the AndroidManifest.xml / 
