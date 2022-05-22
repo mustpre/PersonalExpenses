@@ -19,7 +19,7 @@ I am developing this app through the course I followed while learning Flutter & 
 
 ![Screenshot_1653144094](https://user-images.githubusercontent.com/101803552/169656630-1d4a636a-5d23-4150-89f0-6374061fa628.png)
 
-2.1)If you want to delete any expenditure later, you can delete the expenditure you want from the list. The application also performs the automatic removal from the chart itself.
+2.1) If you want to delete any expenditure later, you can delete the expenditure you want from the list. The application also performs the automatic removal from the chart itself.
 
 3) It also has a button attachment that allows the chart to be displayed separately for a better view in land-space mode.
 
